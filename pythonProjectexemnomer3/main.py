@@ -4,7 +4,7 @@ one = 0
 two = 0
 while tip <= 7:
     c = int(input("Введите первое число от 1 до 20: "))
-    d = int(input("Введите второе число от 1 до 20: "))
+    d = int(input("Введите  от 1 до 20: "))
     a = random.randint(1, 20)
     b = random.randint(1, 20)
     print("Случайные числа: ", a, b)
